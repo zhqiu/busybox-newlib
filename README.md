@@ -1,2 +1,2 @@
 # busybox-newlib
-busybox for NSCSCC 2018
+Qiu zihao's busybox for NSCSCC 2018
