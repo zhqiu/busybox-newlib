@@ -20,4 +20,5 @@ Qiu zihao's busybox for NSCSCC 2018
 > vi  
 > wc
 
-使用方式： ./busybox [程序名] {相关参数}
+使用方式： ./busybox [程序名] {相关参数}  
+(run on native linux)
