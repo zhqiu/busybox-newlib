@@ -18,5 +18,5 @@ Qiu zihao's busybox for NSCSCC 2018
 > ls  
 > seq  
 > vi  
-> wc  
+> wc
 使用方式： ./busybox [程序名] {相关参数}
